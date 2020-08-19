@@ -4,6 +4,7 @@ int main(){
     int a[1000000],n,l,i;
     scanf("%d %d",&n,&l);
     for(i=0;i<n;i++){
+       
         scanf("%d",&a[i]);
     }
     for(i=l;i<n;i++){
