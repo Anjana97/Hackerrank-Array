@@ -1,2 +1,2 @@
-# Hackerrank-Array
+# Array
 Interview-Preparation-Kit
